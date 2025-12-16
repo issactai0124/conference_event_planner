@@ -45,7 +45,7 @@ The application's requirements include allowing users to select and price the ro
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:5173`.
+4. Open your browser and navigate to `http://localhost:5173/conference_event_planner`.
 
 ## Usage
 
